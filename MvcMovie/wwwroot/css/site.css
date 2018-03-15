@@ -33,3 +33,66 @@
         display: none;
     }
 }
+
+
+/*Styles added for Assignment*/
+.navbar-inverse {
+    background-color: lightcoral;
+    border-color: transparent;
+}
+
+    .navbar-inverse .navbar-brand {
+        color: lightcyan;
+    }
+
+hr {
+    border-top: 2px solid lightcoral;
+}
+
+body{
+   background-color: lightcyan;
+}
+
+.body-content{
+    margin-top:30px;
+}
+
+footer {
+    text-align: center;
+}
+
+a:link, a:visited, a:active{
+    color:lightcoral;
+}
+
+a:hover{
+    color: cornflowerblue;
+}
+
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: cornflowerblue;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: lightcoral;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: lightcyan;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: cornflowerblue;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: cornflowerblue;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: lightcyan;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: lightcyan;
+}
